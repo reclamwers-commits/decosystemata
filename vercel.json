@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://konarskaagata.myportfolio.com",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/decosystemata",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/decosystemata/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
