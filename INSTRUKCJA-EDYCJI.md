@@ -138,10 +138,13 @@ Jeśli model ładuje się wolno (>3 sekundy) — zgłoś, skompresujemy.
 
 Strona jest hostowana na Vercel pod adresem `konarskaagata.pl/decosystemata`.
 
-W terminalu w folderze projektu:
-```
-npm run build
-npx vercel --prod --yes
-```
+### Jak edytować pliki (bez programowania)
 
-Strona aktualizuje się w ciągu ~30 sekund.
+1. Wejdź na: **https://github.com/reclamwers-commits/decosystemata**
+2. Znajdź plik który chcesz zmienić (np. `src/data/objects.js`)
+3. Kliknij w nazwę pliku, a następnie kliknij ikonę **ołówka ✏️** (Edit this file) w prawym górnym rogu
+4. Wprowadź zmiany w edytorze
+5. Przewiń na dół strony → kliknij zielony przycisk **Commit changes**
+6. W okienku które się pojawi kliknij ponownie **Commit changes**
+
+Strona aktualizuje się automatycznie w ciągu **1–2 minut** po zapisaniu — nie trzeba nic więcej robić.
