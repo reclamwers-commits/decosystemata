@@ -3,10 +3,10 @@ export const objects = [
   {
     id: 'kamien',
     file: '/models/kamien-opt.glb',
-    name: 'Kamień Polny',
-    shortDesc: 'Gładki kamień polny',
+    name: 'Karpłaszcz korzeniasty',
+    shortDesc: 'Radicopallium carboniferum',
     description:
-      'Gładki, wyoblony przez wodę kamień. Minimalistyczny element dekoracyjny o surowym charakterze.',
+      'Gatunek tworzy masywną, miękkotkankową strukturę płaszczową o silnie zdeformowanej symetrii i licznych otworach przepływowych. Powierzchnia ciała ma barwę ciemnosiną z nieregularnymi, rdzawymi ogniskami mineralizacji żelazowo-siarkowej. Z centralnej części grzbietowej wyrasta rozgałęziona struktura wapienno-białkowa o cechach wtórnego szkieletu podporowego, przypominająca formy koralowe lub korzeniaste. Tkanka zewnętrzna wykazuje wyraźne zgrubienia, marszczenia i strefy bliznowacenia, będące skutkiem długotrwałego kontaktu z osadami ropopochodnymi, mikroplastikiem i pyłem węglowym.',
     position: [-5.0, 1.75, 0],
     mobilePosition: [-1.1, 2.1, 0],
     scale: 1.2,
@@ -16,10 +16,10 @@ export const objects = [
   {
     id: 'perly',
     file: '/models/perly-opt.glb',
-    name: 'Perły',
-    shortDesc: 'Naszyjnik z pereł',
+    name: 'Perłopław',
+    shortDesc: 'Margaritoplasma auroramosa',
     description:
-      'Gładkie, błyszczące perły. Obiekt ten wymaga odpowiedniego oświetlenia, by ukazać swój naturalny blask.',
+      'Gatunek tworzy rozlaną, wielopłatową masę plazmatyczną o silnie uwodnionej strukturze i gładkiej, perłowej powierzchni. Ciało wykształca liczne kuliste zgrubienia ciśnieniowe oraz cienkie przewężenia łączące poszczególne komory płynowe. Na powierzchni rozwijają się wtórne narośla dendrytyczne o metaliczno-złotym zabarwieniu, stanowiące zmineralizowane kolonie symbiotycznych organizmów filtrujących. Warstwa zewnętrzna wykazuje cechy trwałego zespolenia z biopolimerami i osadami syntetycznymi, co nadaje jej połysk porcelanowy i wysoką odporność na zasolenie oraz promieniowanie UV',
     position: [3.3, 1.75, 0],
     mobilePosition: [1.1, 2.1, 0],
     scale: 1.2,
@@ -29,18 +29,10 @@ export const objects = [
   {
     id: 'muszelka',
     file: '/models/muszelka-opt.glb',
-    name: 'Muszla Morska',
-    shortDesc: 'Spiralna muszla',
+    name: 'Perłowiec wtórny',
+    shortDesc: 'Margaritoconcha anthropocena',
     description:
-      `Muszla morska to jeden z najbardziej niezwykłych tworów natury — geometryczny cud, który powstaje bez żadnego planu, bez architekta, wyłącznie w rytm biologicznych praw wzrostu. Ta konkretna muszla, spiralna i precyzyjnie wymodelowana, należy do grupy mięczaków, których skorupa rośnie według zasady złotego podziału: każdy nowy zakręt spirali jest dokładnie tyle razy większy od poprzedniego, co stała liczba φ (fi) — około 1,618. Tę samą proporcję odnajdziemy w kwiatostanie słonecznika, w układzie nasion szyszki, w spirali galaktyk. Natura powtarza swoje ulubione rozwiązania.
-
-Muszle pełniły przez tysiąclecia rolę dalece wykraczającą poza schronienie dla mięczaka. W kulturach prehistorycznych służyły jako pierwotne narzędzia — łyżki, skrobaczki, ozdoby ciała. Badacze odkryli muszle perforowane nitką włókna roślinnego liczące ponad 100 000 lat: to najstarsze znane nam koraliki. Człowiek zdobiił się muszlami zanim nauczył się lepić garnki czy polerować kamień. Były walutą — kauri przez setki lat obiegało jako pieniądz w Afryce subsaharyjskiej, Azji Południowej i Oceanii. Były instrumentami — koncha, wielka muszla trąbkowa, rozbrzmiewała w rytuałach majańskich, azteckich i hinduistycznych. W tradycji buddyjskiej i hinduskiej dźwięk konchy oznajmia świt, zwołuje wiernych, towarzyszy pogrzebowi.
-
-To, co widzimy w tej rzeźbie, to nie tylko ślimak — to zapis czasu. Każda warstwa muszli odpowiada dokładnie jednemu dniowi życia mięczaka. Podobnie jak słoje drzewa opowiadają o suszy i urodzajnych latach, tak przekrój muszli czyta się jak pamiętnik: tu ciepłe lato, tam chłodna zima, tu obfitość pokarmu, tam okresy głodu. Paleontolodzy potrafią na tej podstawie odtworzyć klimat sprzed milionów lat z tygodniową dokładnością. Muszla jest więc archiwum — twardym dyskiem zapisanym wapniem i białkiem.
-
-W aranżacjach wnętrz muszla morska przynosi to, czego nie da żaden projektowany przedmiot: organiczność. Jej faktura jest jednocześnie szorstka i gładka, matowa i błyszcząca — zależy od kąta światła i odległości obserwatora. Połysk masy perłowej (mieszaniny kryształków aragonitu ułożonych jak dachówki) zmienia się z niemal metalicznego w miękkie złoto, gdy pada na nią ciepłe wieczorne słońce. Dlatego muszle sprawdzają się zarówno w nowoczesnym minimalistycznym wnętrzu, gdzie są jedynym organicznym akcentem na tle betonu i szkła, jak i w stylistyce boho czy natural, gdzie współgrają z rattanem, lnem i drewnem.
-
-Pamiętaj: każda muszla, która trafiła na Twój stół lub półkę, jest unikatowa. Nie istnieją dwie identyczne — nawet u tego samego gatunku wzór jest zawsze odrobinę inny, spirala nieco szersza lub ciaśniejsza, barwa przesunięta w stronę różu lub ochry. Masz przed sobą obiekt stworzony przez żywą istotę w niepowtarzalnym momencie jej życia. To czyni ją czymś więcej niż dekoracją — czyni ją reliktem.`,
+      `Gatunek tworzy masywną, wielofałdową osłonę zewnętrzną o wapienno-białej powierzchni i silnie rozwiniętych naroślach guzkowatych. Wnętrze wypełnia rozbudowany płaszcz o czerwono-różowym użyleniu, zanurzony w przezroczystym hydrożelu ochronnym. Tkanki miękkie wykazują przerost powierzchni fałdowych, co zwiększa zdolność akumulacji mikrocząstek mineralnych, soli oraz związków pochodzenia antropogenicznego. Struktura muszli ma charakter wtórnie nieregularny, co stanowi efekt długotrwałej ewolucji w środowiskach przeciążonych chemicznie i termicznie.,
     position: [-3.4, 0.2, 0],
     mobilePosition: [-1.1, 0.7, 0],
     scale: 1.2,
