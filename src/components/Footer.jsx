@@ -45,7 +45,7 @@ export default function Footer() {
         {/* ── Prawa kolumna: sociale ── */}
         <div className="footer-social" aria-label="Social media i kontakt">
           <a
-            href="https://www.facebook.com/decosystemata"
+            href="https://www.facebook.com/agata.konarska?lst=1073290795%3A1073290795%3A1519505009"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-social-link"
@@ -54,7 +54,7 @@ export default function Footer() {
             <span>facebook.com/decosystemata</span>
           </a>
           <a
-            href="https://www.instagram.com/decosystemata"
+            href="https://www.instagram.com/_konarska_/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-social-link"
@@ -63,7 +63,7 @@ export default function Footer() {
             <span>@decosystemata</span>
           </a>
           <a
-            href="https://decosystemata.pl"
+            href="https://konarskaagata.myportfolio.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-social-link"
