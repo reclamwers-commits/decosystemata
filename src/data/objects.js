@@ -42,10 +42,10 @@ export const objects = [
   {
     id: 'grzybki',
     file: '/models/grzybki-opt.glb',
-    name: 'Małe Grzybki',
-    shortDesc: 'Kolonia drobnych grzybów',
+    name: 'Żużloporek żarowy',
+    shortDesc: 'Scoriomyces pyroclasticus',
     description:
-      'Drobne grzyby rosnące w skupisku. Delikatne tekstury przypominają naturalne środowisko wilgotnego lasu.',
+      'Gatunek tworzy zwartą, bulwiastą kolonię o silnie zróżnicowanej powierzchni, złożoną z miękkich tkanek grzybniowych, stref zwęglonych oraz porowatych narośli o charakterze żużlowym. W obrębie kolonii występują rozległe szczeliny emisyjne o intensywnie pomarańczowym zabarwieniu, stanowiące kanały cieplne i przestrzenie aktywnego metabolizmu chemotroficznego. Warstwa zewnętrzna przyjmuje barwy popielate, czarne i kredowobeżowe, z licznymi zgrubieniami sorpcyjnymi wiążącymi pyły metaliczne, sadzę i drobiny popiołu. Na powierzchni grzbietowej rozwijają się cienkie, wysoko wyniesione trzonki zarodnionośne, wykształcające mikrokapelusze odporne na wysoką temperaturę i okresowe przesuszenie.',
     position: [-0.1, 0.45, 0],
     mobilePosition: [1.1, 0.7, 0],
     scale: 1.2,
@@ -55,10 +55,10 @@ export const objects = [
   {
     id: 'huba',
     file: '/models/huba-opt.glb',
-    name: 'Huba Drzewna',
-    shortDesc: 'Huba porastająca kory',
+    name: 'Pieczeniec sadzowy',
+    shortDesc: 'Carbonomyces domesticus',
     description:
-      'Huba drzewna o twardej, porowatej strukturze. Doskonały przykład naturalnego pasożyta drzewnego w formie dekoracyjnej.',
+      'Gatunek tworzy zwartą, wielopłatową kolonię złożoną z mięsistych, zgrubiałych owocników o jasnobeżowej powierzchni, gęsto nakrapianej czarnymi ogniskami karbonizacji. Na szczytach płatów występują ciemne, przypalone strefy ochronne, powstałe przez trwałe odkładanie sadzy, pyłów węglowych i produktów termicznego rozkładu materii organicznej. Spodnia strona owocników wykształca krótkie, gęste listewki zarodnikonośne, częściowo osłonięte przez zrośnięte fałdy tkanki. Ciało ma wysoką pojemność wodną i znaczną odporność na przesuszenie, przegrzanie oraz kontakt z lotnymi związkami pochodzenia przemysłowego i komunalnego.',
     position: [3.5, -0.6, 0],
     mobilePosition: [-1.1, -0.7, 0],
     scale: 1.2,
@@ -68,10 +68,10 @@ export const objects = [
   {
     id: 'liscie',
     file: '/models/liscie-opt.glb',
-    name: 'Jesienne Liście',
-    shortDesc: 'Kompozycja zwiędłych liści',
+    name: 'Wstęgowiec',
+    shortDesc: 'Velofolium pelagicum',
     description:
-      'Skupisko opadłych liści, oddające dynamikę i kruchość jesiennej natury.',
+      'Gatunek tworzy cienkościenne, półprzezroczyste płaty o budowie błoniastej, zwinięte w szerokie, faliste wstęgi. Część osobników występuje w formie wolnodryfujących segmentów, część tworzy stadium osiadłe z wykształconym szkieletem osiowym i wtórnymi naroślami kalcyfikacyjnymi. Powierzchnia ciała jest delikatnie użyłkowana, o wyraźnym układzie włókien wzmacniających, przypominających zrost tkanki organicznej z cienką warstwą biopolimeru. Morfologia gatunku stanowi wynik ewolucyjnej odpowiedzi na trwałą obecność mikroplastików i nanowłókien syntetycznych w toni wodnej; organizm wykorzystuje je jako rusztowanie wzrostowe i materiał stabilizujący błony nośne.',
     position: [-2.4, -1.4, 0],
     mobilePosition: [1.1, -0.7, 0],
     scale: 1.2,
@@ -81,10 +81,10 @@ export const objects = [
   {
     id: 'grzyby',
     file: '/models/grzyby-opt.glb',
-    name: 'Grzyby Leśne',
-    shortDesc: 'Kompozycja grzybów leśnych',
+    name: 'Hubiak wapienny',
+    shortDesc: 'Calcimyces litoralensis',
     description:
-      'Piękna kompozycja leśnych grzybów. Zwróć uwagę na detale kapeluszy i organiczną strukturę trzonu. Idealnie wpasuje się w naturalne wnętrza.',
+      'Gatunek tworzy zwartą, wielokapeluszową kolonię o silnie sklerotyzowanych trzonach i szerokich, dachówkowato ułożonych owocnikach. Powierzchnia kapeluszy pokryta jest gęstymi brodawkowatymi wyniosłościami wapienno-krzemionkowymi, a spodnia strona wykształca głębokie, regularne blaszki o funkcji zarodnikonośnej i wymiennej. Tkanki przyjmują barwę jasnokremową wskutek trwałego przesycenia węglanami, pyłem cementowym i osadami pochodzącymi z erozji infrastruktury przybrzeżnej. U podstawy kolonii rozwija się zrośnięty system podporowy, łączący cechy grzybni, korzeni chwytnych i zmineralizowanej tkanki kotwiczącej.',
     position: [-5.5, -2.1, 0],
     mobilePosition: [-1.1, -2.1, 0],
     scale: 1.2,
@@ -94,10 +94,10 @@ export const objects = [
   {
     id: 'ukwial',
     file: '/models/ukwial-opt.glb',
-    name: 'Ukwiał Morski',
-    shortDesc: 'Koralowiec rafowy',
+    name: 'Wachlarzowiec osadowy',
+    shortDesc: 'Sediflabellum ferromarginatum',
     description:
-      'Złożona struktura ukwiału morskiego. Wyjątkowo skomplikowana geometria dająca piękny efekt wizualny.',
+      'Gatunek tworzy rozgałęzioną, kolonijną strukturę osiową, od której odchodzą liczne płaty i wachlarzowate wyrostki filtracyjne. Powierzchnia ciała ma barwę sinozieloną i chropowatą, z wyraźnym pofałdowaniem brzegów. Na zakończeniach płatów występują zmineralizowane strefy ochronne o rdzawozłotym zabarwieniu, powstałe wskutek trwałej inkorporacji tlenków żelaza i osadów metalicznych. Tkanka zewnętrzna wykazuje wysoką odporność na abrazję oraz stałe odkładanie zawiesin przemysłowych..',
     position: [5.2, -1.9, 0],
     mobilePosition: [1.1, -2.1, 0],
     scale: 1.2,
