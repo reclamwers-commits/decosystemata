@@ -19,6 +19,13 @@ const IconWWW = () => (
   </svg>
 )
 
+const IconEmail = () => (
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <rect x="2" y="4" width="20" height="16" rx="2" />
+    <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" />
+  </svg>
+)
+
 export default function Footer() {
   return (
     <footer className="site-footer" id="footer">
@@ -31,11 +38,12 @@ export default function Footer() {
               <img src="/images/portrait.jpg" alt="Portret artystki" />
             </div>
             <div className="footer-text">
-              <h2 className="footer-name">Decosystemata Crastini</h2>
+              <h2 className="footer-name">Agata Konarska</h2>
               <p className="footer-bio">
-                Tworzę ekosystemy z materiałów naturalnych — muszle, kamienie,
-                grzyby i liście zebrane w polskiej naturze. Każdy obiekt to
-                unikalna forma łącząca rzemiosło z filozofią slow living.
+                Artystka wizualna, której działania artystyczne opierają się na
+                wykorzystaniu różnych mediów, takich jak wideo, dźwięk i
+                performans, za pomocą których tworzy sytuacje interaktywne oraz
+                kreuje rzeczywistości wirtualne.
               </p>
             </div>
           </div>
@@ -70,6 +78,13 @@ export default function Footer() {
           >
             <IconWWW />
             <span>decosystemata.pl</span>
+          </a>
+          <a
+            href="mailto:agatakonarska9@gmail.com"
+            className="footer-social-link"
+          >
+            <IconEmail />
+            <span>agatakonarska9@gmail.com</span>
           </a>
         </div>
 

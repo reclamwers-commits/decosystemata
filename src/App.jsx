@@ -12,8 +12,8 @@ const N = objects.length
 const PROJECT_INFO = {
   id: '__project__',
   name: 'Decosystemata Crastini',
-  shortDesc: 'Ekosystemy z materiałów naturalnych',
-  description: 'Tu wpisz opis projektu — kim jesteś, skąd pochodzi idea, czym jest Decosystemata Crastini.\n\nMożna dodawać kolejne akapity oddzielone pustą linią. Tekst będzie wyświetlany w panelu bocznym po kliknięciu tytułu strony.',
+  shortDesc: 'Spekulatywny bestiariusz hybrydowych organizmów',
+  description: 'Cyfrowy katalog hybrydowych organizmów powstałych jako spekulatywna odpowiedź na kryzys bioróżnorodności oraz zawłaszczanie natury przez człowieka.\n\nProjekt przyjmuje formę internetowego bestiariusza prezentującego organizmy będące efektem praktyk kontroli nad naturą, takich jak modyfikacja życia, estetyzacja, selekcja i technologiczne podporządkowanie środowiska ludzkim potrzebom.',
 }
 
 export default function App() {
