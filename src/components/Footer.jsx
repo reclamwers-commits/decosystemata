@@ -28,7 +28,7 @@ export default function Footer() {
         <div className="footer-left">
           <div className="footer-about">
             <div className="footer-photo">
-              {/* <img src="/images/portrait.jpg" alt="Portret artystki" /> */}
+              <img src="/images/portrait.jpg" alt="Portret artystki" />
             </div>
             <div className="footer-text">
               <h2 className="footer-name">Decosystemata Crastini</h2>

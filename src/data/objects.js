@@ -32,7 +32,7 @@ export const objects = [
     name: 'Perłowiec wtórny',
     shortDesc: 'Margaritoconcha anthropocena',
     description:
-      `Gatunek tworzy masywną, wielofałdową osłonę zewnętrzną o wapienno-białej powierzchni i silnie rozwiniętych naroślach guzkowatych. Wnętrze wypełnia rozbudowany płaszcz o czerwono-różowym użyleniu, zanurzony w przezroczystym hydrożelu ochronnym. Tkanki miękkie wykazują przerost powierzchni fałdowych, co zwiększa zdolność akumulacji mikrocząstek mineralnych, soli oraz związków pochodzenia antropogenicznego. Struktura muszli ma charakter wtórnie nieregularny, co stanowi efekt długotrwałej ewolucji w środowiskach przeciążonych chemicznie i termicznie.,
+      'Gatunek tworzy masywną, wielofałdową osłonę zewnętrzną o wapienno-białej powierzchni i silnie rozwiniętych naroślach guzkowatych. Wnętrze wypełnia rozbudowany płaszcz o czerwono-różowym użyleniu, zanurzony w przezroczystym hydrożelu ochronnym. Tkanki miękkie wykazują przerost powierzchni fałdowych, co zwiększa zdolność akumulacji mikrocząstek mineralnych, soli oraz związków pochodzenia antropogenicznego. Struktura muszli ma charakter wtórnie nieregularny, co stanowi efekt długotrwałej ewolucji w środowiskach przeciążonych chemicznie i termicznie.',
     position: [-3.4, 0.2, 0],
     mobilePosition: [-1.1, 0.7, 0],
     scale: 1.2,
